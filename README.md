@@ -1,4 +1,3 @@
-GeoRealmsPrivacyPolicy
 # Privacy Policy
 
 This privacy policy applies to the **GeoRealms** app (hereby referred to as "Application") for mobile devices that was created by **Vladislav Surkov** (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
@@ -34,6 +33,21 @@ You can stop all collection of information by uninstalling the Application. This
 ## Data Retention Policy
 
 The Service Provider will retain **User Provided data (Google Play Games Public Username)** for as long as you use the Application and for a reasonable time thereafter. If you'd like this data deleted, please contact the Service Provider at **tbob.ent@gmail.com**.
+
+## Account Deletion Request
+
+To request the deletion of your account and all associated data, please follow these steps:
+
+1. Send an email to [tbob.ent@gmail.com](mailto:tbob.ent@gmail.com) with the subject line: **Account Deletion Request**.
+2. In the body of the email, include the following information:
+   - Your **Google Play Games account name**.
+
+### Data Deletion Details
+
+- **What will be deleted**: Your **public Google Play Games account name** will be deleted.
+- **No data will be retained**: Once your account is deleted, no data will be saved or preserved.
+  
+We will process your request as soon as possible. Please note that it may take some time for all your data to be completely removed from our system.
 
 ## Children
 
